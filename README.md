@@ -1,1 +1,1 @@
-# linux_12_09_2024
+- Finish "permission"
